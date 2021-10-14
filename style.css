@@ -571,7 +571,7 @@ a {
 .header__menu-list li::before {
   content: "";
   position: absolute;
-  background-image: url(../img/List-icon.png);
+  background-image: url(List-icon.png);
   bottom: 0px;
   left: 0px;
   width: 13px;
@@ -755,7 +755,7 @@ a {
 .package__list li::before {
   content: "";
   position: absolute;
-  background-image: url(../img/list.png);
+  background-image: url(list.png);
   width: 15px;
   height: 11px;
   left: 0px;
@@ -875,7 +875,7 @@ a {
 }
 
 .footer {
-  background-image: url(../img/footer-bg.png);
+  background-image: url(footer-bg.png);
 }
 
 .footer a,
